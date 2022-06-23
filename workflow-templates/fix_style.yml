@@ -31,4 +31,4 @@ jobs:
         with:
           commit_user_name: GitHub Actions
           commit_message: Fixed code style
-          file_pattern: ./**.php
+          file_pattern: ':/*.php'
