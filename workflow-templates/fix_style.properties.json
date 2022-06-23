@@ -1,4 +1,7 @@
 {
     "name": "Fix PHP code style workflow",
-    "description": "Uses Laravel Pint to automatically fix PHP code style mistakes"
+    "description": "Uses Laravel Pint to automatically fix PHP code style mistakes",
+    "categories": [
+        "PHP"
+    ]
 }
